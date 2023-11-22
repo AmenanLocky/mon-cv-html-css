@@ -1,2 +1,2 @@
 # mon-cv-html-css
-mon cv web
+mon cv en html et css
