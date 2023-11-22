@@ -1,0 +1,8 @@
+# cloner mon repository github sur ma machine
+git clone https://github.com/AmenanLocky/mon-cv-html-css.git
+#créer une issus(une tache) 
+ créer une milestone
+  titre + description
+git fetch origin
+git checkout 1-création-de-la-page-index
+
