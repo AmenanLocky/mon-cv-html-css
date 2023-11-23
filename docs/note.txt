@@ -5,4 +5,7 @@ git clone https://github.com/AmenanLocky/mon-cv-html-css.git
   titre + description
 git fetch origin
 git checkout 1-création-de-la-page-index
+#créer une nouvelle branche
+git fetch origin
+git checkout 3-modifier-mon-index
 
