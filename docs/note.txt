@@ -5,4 +5,16 @@ git clone https://github.com/AmenanLocky/mon-cv-html-css.git
   titre + description
 git fetch origin
 git checkout 1-création-de-la-page-index
+#créer une nouvelle branche
+git fetch origin
+git checkout 3-modifier-mon-index
+#mettre son travail sur le depôt distant
+sur la branche 3-modifier-mon-index fait
+git status pour voir les modifications
+git add . enregistrer les modifications
+git commit -m "work index.html"
+git push -u origin 3-modifier-mon-index
+
+
+
 

@@ -1,0 +1,42 @@
+/*@import, @font-face, importer une police d'écriture*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+@font-face{
+    font-family: "Raleway";
+    src: url('../fonts/Raleway-VariableFont_wght.woff');
+    src: url('../fonts/Raleway-VariableFont_wght.ttf') format('truetype');
+}
+/*organiser ma page*/
+
+body, html{
+   width: 1160px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.header,.content_left,.content_right,.footer{
+    padding: 26px,34px;
+    color: white;
+    box-sizing: border-box;
+}
+.content_right{
+    color: black;
+}
+.header{
+    background-color: #782221;
+}
+.address{
+    background-color: #2c1d27;
+}
+.item{
+    margin: 10px;
+    padding: 20px;
+}
+.content_right{
+    background-color: beige;
+}
+.content_left{
+    background-color: #782221;
+}
+.footer{
+    background-color: #782221;
+}
