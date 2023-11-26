@@ -8,6 +8,10 @@ body{
     flex-basis:100%;
     text-align: center;
 }
+.icône{
+    width: 10px;
+    height: 10px;
+}
 .header{
     flex-basis:100%;
 }
@@ -24,6 +28,8 @@ body{
 a{
     text-decoration: none;
     font-size: 1.3em;
+    color: white;
+
 }
 .content_left{
     flex-basis:30%;  
@@ -42,10 +48,14 @@ a{
 
 .content_right{
     flex-basis:70%;
+    padding-left: 25px;
+    border-right: 2px solid black;
 }
 #title_right{
-    padding-left: 20px;
-}
+    padding-left: 24px;
+    display: flex;
+    width: 94%;
+}   
 figure{
     width: 150px;
     height: 150px;
