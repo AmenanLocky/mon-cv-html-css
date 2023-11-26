@@ -20,6 +20,7 @@ body, html{
 }
 .content_right{
     color: black;
+    background-color:white;
 }
 .header{
     background-color: #782221;
@@ -30,9 +31,6 @@ body, html{
 .item{
     margin: 10px;
     padding: 20px;
-}
-.content_right{
-    background-color: beige;
 }
 .content_left{
     background-color: #782221;
